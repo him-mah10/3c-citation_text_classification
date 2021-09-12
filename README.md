@@ -1,0 +1,2 @@
+# 3c-citation_text_classification
+This repository contains the code used as a part of our team's submission for the 2021 3c Shared task. Task 1 was titled 'Citation Context Classification based on Purpose' where the Team (IREL) ranked first among the 22 participants on the leaderboard and Task 2 was aimed at  classifying citation context based on Influence where the team ranked second on the private leaderboard.
